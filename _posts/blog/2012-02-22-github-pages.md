@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用Github Pages建独立博客
+title: [转载】使用Github Pages建独立博客
 description: Github本身就是不错的代码社区，他也提供了一些其他的服务，比如Github Pages，使用它可以很方便的建立自己的独立博客，并且免费。
 category: blog
 ---
@@ -61,7 +61,7 @@ Git是版本管理的未来，他的优点我不再赘述，相关资料很多�
 如果显示“No such file or directory”，跳到第三步，否则继续。
 
 ###2、备份和移除原来的ssh key设置：
-因为已经存在key文件，所以需要备份旧的数据并删除：
+因为已经存在key文件，所以需要备份旧的数据并删除
 
     $ ls
     config	id_rsa	id_rsa.pub	known_hosts
