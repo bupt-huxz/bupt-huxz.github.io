@@ -37,6 +37,7 @@ category: blog
 		return gcd(q, r);
 	}
 
+
 ## 2、定容栈
 
 数据类型的实现
@@ -54,6 +55,7 @@ category: blog
 		public String pop()
 		{ return a[--N]; }
 	}
+
 
 ## 3、泛型定容栈
 
@@ -73,6 +75,7 @@ category: blog
 		public Item pop()
 		{ return a[--N]; }
 	}
+
 
 ## 4、下压(LIFO)栈（能够动态调整数组大小的实现）
 
