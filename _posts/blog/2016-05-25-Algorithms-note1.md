@@ -37,7 +37,7 @@ category: blog
 		return gcd(q, r);
 	}
 
-##　２、定容栈
+## 2、定容栈
 
 数据类型的实现
 
@@ -55,7 +55,7 @@ category: blog
 		{ return a[--N]; }
 	}
 
-##　３、泛型定容栈
+## 3、泛型定容栈
 
 数据类型的实现
 
